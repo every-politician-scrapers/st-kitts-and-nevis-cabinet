@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Saint Kitts and Nevis",
+      "id": "Q763"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q107986352",
+      "start": "2015-02-18",
+      "parent": "Q107986344"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.gov.kn/index.html",
+        "title": "St. Kitts & Nevis | Government at a Glance | The Cabinet",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/st-kitts-and-nevis-cabinet"
 }
