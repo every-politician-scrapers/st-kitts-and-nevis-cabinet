@@ -2,5 +2,15 @@ id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q26869650,monarch of Saint Kitts and Nevis,Q763,Q763,,,,,,,
 Q35918814,Governor-General of Saint Kitts and Nevis,Q763,Q763,,Q1840327,1983-09-19,,,,Governor-General of Saint Kitts and Nevis
 Q30101336,Prime Minister of St Kitts and Nevis,Q763,Q763,,Q1826842,,,,,
+Q110287715,Minister of Agriculture,Q763,Q763,,,,,,,
+Q110287730,Minister of Education,Q763,Q763,,,,,,,
+Q110287729,Minister of Environment,Q763,Q763,,,,,,,
 Q108804837,Minister of Foreign Affairs of St Kitts and Nevis,Q763,Q763,,,,,,,
+Q110287725,Minister of Health,Q763,Q763,,,,,,,
+Q110287760,Minister of International Trade,Q763,Q763,,,,,,,
+Q110287769,Minister of Justice,Q763,Q763,,,,,,,
+Q110287713,Minister of Public Infrastructure,Q763,Q763,,,,,,,
+Q110287722,Minister of Tourism,Q763,Q763,,,,,,,
+Q110287862,Speaker of the National Assembly,,,,,,,,,
 Q7240355,Premier of Nevis,Q763,Q207794,,,,,,,Premier of Nevis
+Q110287873,Commander of the Saint Kitts and Nevis Defence Force,,,,,,,,,
