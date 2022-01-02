@@ -1,0 +1,189 @@
+{
+  "title": "Mark Brantley",
+  "pageID": 49994819,
+  "categories": [
+    "Living people",
+    "1969 births",
+    "Alumni of St Catherine's College, Oxford",
+    "Concerned Citizens' Movement politicians",
+    "Government ministers of Saint Kitts and Nevis",
+    "Members of the National Assembly (Saint Kitts and Nevis)",
+    "University of the West Indies alumni",
+    "People from Saint George Gingerland Parish",
+    "Foreign Ministers of Saint Kitts and Nevis"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mark Brantley (born 11 January 1969) is the Premier of Nevis and the Minister of Foreign Affairs for St Kitts and Nevis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Premier of Nevis"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Saint Kitts and Nevis)"
+                },
+                {
+                  "type": "internal",
+                  "page": "St Kitts and Nevis"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mark Brantley"
+                ]
+              }
+            },
+            {
+              "text": "Prior to entering politics, Brantley worked as an attorney."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "date",
+          "data": {
+            "year": 1969,
+            "month": 1,
+            "date": 11
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable"
+          },
+          "name": {
+            "text": "Mark Brantley"
+          },
+          "image": {
+            "text": "Secretary Pompeo Meets with Saint Kitts and Nevis Foreign Affairs Minister Brantley (49430297112) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Brantley in 2020"
+          },
+          "order": {
+            "text": "5th"
+          },
+          "office": {
+            "text": "Premier of Nevis"
+          },
+          "term_start": {
+            "text": "29 October 2017"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Vance Amory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vance Amory"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "22 February 2015"
+          },
+          "primeminister2": {
+            "text": "Timothy Harris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timothy Harris"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Patrice Nisbett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrice Nisbett"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Leader of the Opposition in the National Assembly of the Federation of St. Kitts and Nevis"
+          },
+          "term_start3": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end3": {
+            "text": "2015",
+            "number": 2015
+          },
+          "birth_date": {
+            "text": "11 January 1969"
+          },
+          "birth_place": {
+            "text": "Saint George Gingerland Parish, British West Indies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint George Gingerland Parish"
+              },
+              {
+                "type": "internal",
+                "page": "British West Indies"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the West Indies; Norman Manley Law School; University of Oxford (St Catherine's College)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the West Indies"
+              },
+              {
+                "type": "internal",
+                "page": "Norman Manley Law School"
+              },
+              {
+                "type": "internal",
+                "page": "University of Oxford"
+              },
+              {
+                "text": "St Catherine's College",
+                "type": "internal",
+                "page": "St Catherine's College, Oxford"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician, lawyer"
+          }
+        }
+      ]
+    }
+  ]
+}
