@@ -1,0 +1,206 @@
+{
+  "title": "Tapley Seaton",
+  "pageID": 48721359,
+  "categories": [
+    "1950 births",
+    "Governors-General of Saint Kitts and Nevis",
+    "Knights Grand Cross of the Order of St Michael and St George",
+    "Commanders of the Royal Victorian Order",
+    "Living people",
+    "Attorneys General of Saint Kitts and Nevis",
+    "British Saint Christopher and Nevis people",
+    "British colonial attorneys general in the Americas",
+    "Justices of the peace",
+    "Saint Kitts and Nevis Queen's Counsel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir Samuel Weymouth Tapley Seaton, (born 28 July 1950) is the current Governor-General of Saint Kitts and Nevis.",
+              "links": [
+                {
+                  "text": "Governor-General",
+                  "type": "internal",
+                  "page": "Governor-General of Saint Kitts and Nevis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Kitts and Nevis"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sir Samuel Weymouth Tapley Seaton"
+                ]
+              }
+            },
+            {
+              "text": "He was born on Saint Kitts, the son of William A. Seaton and his wife, Pearl A. Seaton, nee Godwin."
+            },
+            {
+              "text": "He came to the position as Acting Governor-General after the ouster of his predecessor Sir Edmund Wickham Lawrence on 20 May 2015.",
+              "links": [
+                {
+                  "text": "Sir Edmund Wickham Lawrence",
+                  "type": "internal",
+                  "page": "Edmund Wickham Lawrence"
+                }
+              ]
+            },
+            {
+              "text": "On 1 September 2015, he was officially appointed Governor-General by Queen Elizabeth II on advice of Prime Minister Timothy Harris.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen Elizabeth II"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of Saint Kitts and Nevis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Timothy Harris"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor-General of Saint Kitts and Nevis (2015-present)",
+          "template": "short description"
+        },
+        {
+          "date": "December 2015",
+          "template": "blp sources"
+        },
+        {
+          "size": "100%",
+          "country": "GBR",
+          "list": [
+            "GCMG",
+            "CVO",
+            "QC",
+            "JP"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1950",
+          "month": "7",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "size": "100%",
+          "sep": ",",
+          "country": "GBR",
+          "list": [
+            "GCMG",
+            "CVO",
+            "QC",
+            "JP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Sir Tapley Seaton"
+          },
+          "office": {
+            "text": "Governor-General of Saint Kitts and Nevis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor-General of Saint Kitts and Nevis"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Timothy Harris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timothy Harris"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 May 2015 Acting: 19 May 2015 – 2 September 2015"
+          },
+          "predecessor": {
+            "text": "Edmund Lawrence",
+            "links": [
+              {
+                "text": "Edmund Lawrence",
+                "type": "internal",
+                "page": "Edmund Lawrence (governor-general)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 28, 1950"
+          },
+          "birth_place": {
+            "text": "Saint Kitts",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Kitts"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the West Indies Hugh Wooding Law School",
+            "links": [
+              {
+                "text": "University of the West Indies",
+                "type": "internal",
+                "page": "Norman Manley Law School"
+              },
+              {
+                "type": "internal",
+                "page": "Hugh Wooding Law School"
+              }
+            ]
+          },
+          "image": {
+            "text": "Tapley Seaton (cropped) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Seaton in 2016"
+          }
+        }
+      ]
+    }
+  ]
+}

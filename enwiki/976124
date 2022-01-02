@@ -1,0 +1,220 @@
+{
+  "title": "Timothy Harris",
+  "pageID": 976124,
+  "categories": [
+    "1964 births",
+    "Foreign Ministers of Saint Kitts and Nevis",
+    "Living people",
+    "People from Saint John Capisterre Parish",
+    "Prime Ministers of Saint Kitts and Nevis",
+    "Recipients of the Order of Propitious Clouds",
+    "Saint Kitts and Nevis Labour Party politicians",
+    "University of the West Indies alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Timothy Sylvester Harris (born 14 January 1964) is a Saint Kittitian and Nevisian politician and the current Prime Minister of Saint Kitts and Nevis since 2015.",
+              "links": [
+                {
+                  "text": "Prime Minister of Saint Kitts and Nevis",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of Saint Kitts and Nevis"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Timothy Sylvester Harris"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Minister of Foreign Affairs from 10 August 2001 to 25 January 2008, as Minister for Finance from 2008 to 2010, and as Senior Minister and Minister for Agriculture from 2010 to 2013."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Saint Kitts and Nevis (2015–present)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "",
+            "the historian of 17th-century Britain",
+            "Timothy J. G. Harris",
+            "the American author",
+            "Timothy Harris (writer)",
+            "other people",
+            "Timothy Harris (disambiguation)"
+          ],
+          "template": "about"
+        },
+        {
+          "year": "1964",
+          "month": "1",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Timothy Harris"
+          },
+          "image": {
+            "text": "TimothyHarris.jpg"
+          },
+          "office": {
+            "text": "Prime Minister of Saint Kitts and Nevis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Saint Kitts and Nevis"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor_general": {
+            "text": "Edmund Lawrence\nTapley Seaton",
+            "links": [
+              {
+                "text": "Edmund Lawrence",
+                "type": "internal",
+                "page": "Edmund Lawrence (Governor-General)"
+              },
+              {
+                "type": "internal",
+                "page": "Tapley Seaton"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 February 2015"
+          },
+          "predecessor": {
+            "text": "Denzil Douglas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denzil Douglas"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "National Assembly (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1995",
+            "number": 1995
+          },
+          "constituency1": {
+            "text": "Saint Christopher #7",
+            "links": [
+              {
+                "text": "Saint Christopher #7",
+                "type": "internal",
+                "page": "Saint Kitts"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 14, 1964"
+          },
+          "birth_place": {
+            "text": "Tabernacle, Saint Christopher-Nevis-Anguilla"
+          },
+          "party": {
+            "text": "Labour Party (Before 2013)\nPeople's Labour Party\n(2013–present)",
+            "links": [
+              {
+                "text": "Labour Party",
+                "type": "internal",
+                "page": "Saint Kitts and Nevis Labour Party"
+              },
+              {
+                "text": "People's Labour Party",
+                "type": "internal",
+                "page": "People's Labour Party (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Team Unity (2013–present)",
+            "links": [
+              {
+                "text": "Team Unity",
+                "type": "internal",
+                "page": "Team Unity (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the West Indies at Cave Hill\nUniversity of the West Indies at St. Augustine\nMcGill University\nConcordia University\nUniversity of Quebec at Montreal\nUniversity of Montreal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the West Indies at Cave Hill"
+              },
+              {
+                "text": "University of the West Indies at St. Augustine",
+                "type": "internal",
+                "page": "University of the West Indies"
+              },
+              {
+                "type": "internal",
+                "page": "McGill University"
+              },
+              {
+                "text": "Concordia University",
+                "type": "internal",
+                "page": "Concordia University (Montreal)"
+              },
+              {
+                "text": "University of Quebec at Montreal",
+                "type": "internal",
+                "page": "Université du Québec à Montréal"
+              },
+              {
+                "text": "University of Montreal",
+                "type": "internal",
+                "page": "Université de Montréal"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

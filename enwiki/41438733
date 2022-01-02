@@ -1,0 +1,128 @@
+{
+  "title": "Lindsay Grant",
+  "pageID": 41438733,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Harvard Law School alumni",
+    "People's Action Movement politicians",
+    "Former United States citizens",
+    "Saint Kitts and Nevis lawyers",
+    "People associated with the Norman Manley Law School"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lindsay Fitz-Patrick Grant (born 1 November 1964) is a Saint Kitts and Nevis politician and lawyer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint Kitts and Nevis"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lindsay Fitz-Patrick Grant"
+                ]
+              }
+            },
+            {
+              "text": "He served as Leader of the People's Action Movement until his resignation in July 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Action Movement"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "",
+            "the Trinidadian businessman, cricket umpire and cricket administrator",
+            "Lindsay Grant (businessman)"
+          ],
+          "template": "about"
+        },
+        {
+          "year": "1964",
+          "month": "11",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "text": "The Honourable",
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Lindsay Grant"
+          },
+          "image": {
+            "text": "Lindsay Fitz-Patrick Grant.jpg"
+          },
+          "office": {
+            "text": "Minister of Tourism, International Trade, Industry and Commerce"
+          },
+          "primeminister": {
+            "text": "Timothy Harris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timothy Harris"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 February 2015"
+          },
+          "birth_name": {
+            "text": "Lindsay Fitz-Patrick Grant"
+          },
+          "birth_date": {
+            "text": "November 1, 1964"
+          },
+          "party": {
+            "text": "People's Action Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Action Movement"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Norman Manley Law School, Harvard Law School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norman Manley Law School"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard Law School"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
