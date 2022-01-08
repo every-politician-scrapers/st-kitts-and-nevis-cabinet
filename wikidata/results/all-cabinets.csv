@@ -1,3 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q107986352,First Harris Cabinet,2015-02-18,11,,,2020-06-05,11,,,Q107986344,Cabinet of Saint Kitts and Nevis,,,,,Q110287529,Second Harris Cabinet,,,,
-,Q110287529,Second Harris Cabinet,2020-06-05,11,,,,,,,Q107986344,Cabinet of Saint Kitts and Nevis,,,Q107986352,First Harris Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q107986352,First Harris Cabinet,2015-02-18,11,,,2020-06-05,11,,,,,Q110287529,Second Harris Cabinet,,,,
+,Q110287529,Second Harris Cabinet,2020-06-05,11,,,,,,,Q107986352,First Harris Cabinet,,,,,,
