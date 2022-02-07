@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Timothy Sylvester Harris (born 14 January 1964) is a Saint Kittitian and Nevisian politician and the current Prime Minister of Saint Kitts and Nevis since 2015.",
+              "text": "Timothy Sylvester Harris (born 6 December 1964) is a Saint Kittitian and Nevisian politician and the current Prime Minister of Saint Kitts and Nevis since 2015.",
               "links": [
                 {
                   "text": "Prime Minister of Saint Kitts and Nevis",
@@ -58,8 +58,8 @@
         },
         {
           "year": "1964",
-          "month": "1",
-          "day": "14",
+          "month": "12",
+          "day": "6",
           "df": "y",
           "template": "birth date and age"
         }
@@ -150,7 +150,7 @@
             ]
           },
           "birth_date": {
-            "text": "January 14, 1964"
+            "text": "December 6, 1964"
           },
           "birth_place": {
             "text": "Tabernacle, Saint Christopher-Nevis-Anguilla"
