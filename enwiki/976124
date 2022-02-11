@@ -99,7 +99,7 @@
               }
             ]
           },
-          "governor_general": {
+          "governor-general": {
             "text": "Edmund Lawrence\nTapley Seaton",
             "links": [
               {
@@ -126,6 +126,43 @@
             ]
           },
           "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Denzil Douglas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denzil Douglas"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 August 2001"
+          },
+          "term_end1": {
+            "text": "25 January 2008"
+          },
+          "predecessor1": {
+            "text": "Sam Condor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sam Condor"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Denzil Douglas"
+          },
+          "office2": {
             "text": "Member of Parliament",
             "links": [
               {
@@ -135,11 +172,11 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "1995",
             "number": 1995
           },
-          "constituency1": {
+          "constituency2": {
             "text": "Saint Christopher #7",
             "links": [
               {
