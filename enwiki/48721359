@@ -101,7 +101,6 @@
           "template": "birth date and age"
         },
         {
-          "size": "100%",
           "sep": ",",
           "country": "GBR",
           "list": [
@@ -116,16 +115,26 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency",
+            "text": "His Excellency Sir",
             "links": [
               {
                 "type": "internal",
                 "page": "His Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "Sir"
               }
             ]
           },
           "name": {
-            "text": "Sir Tapley Seaton"
+            "text": "Tapley Seaton"
+          },
+          "image": {
+            "text": "Tapley Seaton (cropped) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Seaton in 2016"
           },
           "office": {
             "text": "Governor-General of Saint Kitts and Nevis",
@@ -155,7 +164,7 @@
             ]
           },
           "term_start": {
-            "text": "19 May 2015 Acting: 19 May 2015 – 2 September 2015"
+            "text": "19 May 2015\nActing: 19 May 2015 – 2 September 2015"
           },
           "predecessor": {
             "text": "Edmund Lawrence",
@@ -180,7 +189,7 @@
             ]
           },
           "alma_mater": {
-            "text": "University of the West Indies Hugh Wooding Law School",
+            "text": "University of the West Indies\nHugh Wooding Law School",
             "links": [
               {
                 "text": "University of the West Indies",
@@ -192,12 +201,6 @@
                 "page": "Hugh Wooding Law School"
               }
             ]
-          },
-          "image": {
-            "text": "Tapley Seaton (cropped) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Seaton in 2016"
           }
         }
       ]
