@@ -1,111 +1,12 @@
 {
-  "title": "Shawn Richards",
-  "pageID": 41438370,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "Cleveland State University alumni",
-    "Members of the National Assembly (Saint Kitts and Nevis)",
-    "People's Action Movement politicians",
-    "Former United States citizens",
-    "University of the Virgin Islands alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Shawn Kenneth Richards (born 8 December 1972) is a Saint Kitts and Nevis politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Saint Kitts and Nevis"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Shawn Kenneth Richards"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1972",
-          "month": "12",
-          "day": "8",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "text": "The Honourable",
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Shawn Richards"
-          },
-          "image": {
-            "text": "ShawnRichards.jpg"
-          },
-          "office": {
-            "text": "Minister of Education, Youth, Sport and Culture"
-          },
-          "primeminister": {
-            "text": "Timothy Harris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Timothy Harris"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 February 2015"
-          },
-          "birth_name": {
-            "text": "Shawn Kenneth Richards"
-          },
-          "birth_date": {
-            "text": "December 8, 1972"
-          },
-          "party": {
-            "text": "People's Action Movement",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Action Movement"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Cleveland State University, University of the Virgin Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cleveland State University"
-              },
-              {
-                "type": "internal",
-                "page": "University of the Virgin Islands"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Shawn Richards",
+  "image": "ShawnRichards.jpg",
+  "office": "Minister of Education, Youth, Sport and Culture",
+  "primeminister": "Timothy Harris",
+  "term_start": "22 February 2015",
+  "birth_name": "Shawn Kenneth Richards",
+  "birth_date": "December 8, 1972",
+  "party": "People's Action Movement",
+  "alma_mater": "Cleveland State University, University of the Virgin Islands"
 }
