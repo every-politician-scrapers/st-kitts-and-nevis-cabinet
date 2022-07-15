@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Saint Kitts and Nevis",
+      "id": "Q763"
+    },
+    "cabinet": {
+      "id": "Q110287529",
+      "start": "2020-06-05",
+      "parent": "Q107986344"
+    },
+    "source": {
+        "url":   "https://www.gov.kn/index.html",
+        "title": "St. Kitts & Nevis | Government at a Glance | The Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/st-kitts-and-nevis-cabinet"
+}
