@@ -8,13 +8,16 @@
       "start": "2020-06-05",
       "parent": "Q107986344"
     },
-    "source": {
-        "url":   "https://www.gov.kn/index.html",
-        "title": "St. Kitts & Nevis | Government at a Glance | The Cabinet",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.gov.kn/index.html",
+        "P1476": {
+            "text": "St. Kitts & Nevis | Government at a Glance | The Cabinet",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/st-kitts-and-nevis-cabinet"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in St Kitts and Nevis"
+    }
 }

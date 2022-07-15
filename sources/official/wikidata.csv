@@ -1,10 +1,12 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q10318591,Lindsay Grant,Lindsay Grant,male,1964-11-01,11,,,Q110287722,Minister of Tourism,2015-02-22,Q10318591-937B2E2D-3779-4C13-A1F6-37C589964BAD
-Q108804918,Eric Evelyn,Eric Evelyn,male,,,,,Q110287729,Minister of Environment,2020-06-05,Q108804918-131E28E4-AC6A-4C7A-8EF9-B9F0641C2F8D
-Q108804922,Jonel Powell,Jonel Powell,male,,,,,Q110287730,Minister of Education,2020-06-05,Q108804922-B7F7C53D-069E-4BB8-AEB5-B98465E62ECA
-Q108804926,Eugene Hamilton,Eugene Hamilton,,,,,,Q110287738,Minister of Social Development,2020-06-05,Q108804926-3FC128BA-4031-4617-A78E-F828F60DBAA7
-Q108804934,Akilah Byron-Nisbett,Akilah Byron-Nisbett,female,,,,,Q110287725,Minister of Health,2020-06-05,Q108804934-89CEAFA7-B860-4E60-8B98-A8EF2C3DD201
-Q110287759,Wendy C Phipps,Wendy C Phipps,female,1967-11-24,11,,,Q110287760,Minister of International Trade,2020-06-05,Q110287759-FA47396F-EF2B-4A84-958E-2A554B24B3CE
-Q110287768,"Vincent F. Byron, Jr","Vincent F. Byron, Jr",male,,,,,Q110287769,Minister of Justice,2020-06-05,Q110287768-E5E6BD8B-000C-40D4-A7E9-4BD916816663
-Q16214148,Shawn Richards,Shawn Richards,male,1972-12-08,11,,,Q110287713,Minister of Public Infrastructure,2020-06-05,Q16214148-C4FEC661-0BEF-4F33-9F78-BCF68D15B667
-Q4721468,Alexis Jeffers,Alexis Jeffers,male,1968-11-25,11,,,Q110287715,Minister of Agriculture,2020-06-05,Q4721468-E10455AE-B974-4B5D-BB39-F18BDB57EF3C
+item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
+Q10318591,Lindsay Grant,Q110287722,Minister of Tourism,2015-02-22,,https://www.gov.kn/index.html,2022-07-15,Q10318591-937B2E2D-3779-4C13-A1F6-37C589964BAD
+Q108804918,Eric R. Evelyn,Q110287729,Minister of Environment,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q108804918-131E28E4-AC6A-4C7A-8EF9-B9F0641C2F8D
+Q108804922,Jonel Powell,Q110287730,Minister of Education,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q108804922-B7F7C53D-069E-4BB8-AEB5-B98465E62ECA
+Q108804926,Eugene Hamilton,Q110287738,Minister of Social Development,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q108804926-3FC128BA-4031-4617-A78E-F828F60DBAA7
+Q108804934,Akilah Byron-Nisbett,Q110287725,Minister of Health,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q108804934-89CEAFA7-B860-4E60-8B98-A8EF2C3DD201
+Q110287759,Wendy Phipps,Q110287760,Minister of International Trade,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q110287759-FA47396F-EF2B-4A84-958E-2A554B24B3CE
+Q110287768,Vincent Byron,Q110287769,Minister of Justice,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q110287768-E5E6BD8B-000C-40D4-A7E9-4BD916816663
+Q16214148,Shawn Richards,Q110287713,Minister of Public Infrastructure,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q16214148-C4FEC661-0BEF-4F33-9F78-BCF68D15B667
+Q23664146,Mark A. G Brantley,Q7240355,Premier of Nevis,2017-10-29,,https://www.gov.kn/index.html,2022-07-15,Q23664146-E36BC9DC-0CE6-4890-BF6B-7A585BD021F8
+Q3529064,Timothy Harris,Q30101336,Prime Minister,2015-02-18,,https://www.gov.kn/index.html,2022-07-15,Q3529064-1d82bbad-4e6c-14fb-7bac-089f1daeee48
+Q4721468,Alexis A. Jeffers,Q110287715,Minister of Agriculture,2020-06-05,,https://www.gov.kn/index.html,2022-07-15,Q4721468-E10455AE-B974-4B5D-BB39-F18BDB57EF3C

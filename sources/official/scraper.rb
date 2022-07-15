@@ -7,17 +7,21 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      raw.split(' - ')[0].to_s.tidy.gsub(/^Dr\. ?/, '').gsub(/^The Hon. ?/, '')
     end
 
     def position
-      noko.css('.position').text.tidy
+      raw.split(' - ')[1].to_s.tidy
+    end
+
+    def raw
+      noko.text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.menu_ministers .mx-name-container1')
     end
   end
 end
