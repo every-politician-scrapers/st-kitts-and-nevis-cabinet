@@ -1,0 +1,713 @@
+{
+  "title": "Timothy Harris",
+  "pageID": 976124,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Saint John Capisterre Parish",
+    "Recipients of the Order of Propitious Clouds",
+    "Saint Kitts and Nevis Labour Party politicians",
+    "People's Labour Party politicians",
+    "University of the West Indies alumni",
+    "Prime Ministers of Saint Kitts and Nevis",
+    "Foreign Ministers of Saint Kitts and Nevis",
+    "Agriculture ministers of Saint Kitts and Nevis",
+    "Education ministers of Saint Kitts and Nevis",
+    "Finance ministers of Saint Kitts and Nevis",
+    "Housing ministers of Saint Kitts and Nevis",
+    "Industry ministers of Saint Kitts and Nevis",
+    "Labour ministers of Saint Kitts and Nevis",
+    "Trade ministers of Saint Kitts and Nevis"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Timothy Sylvester Harris (born 6 December 1964) is a Saint Kittitian and Nevisian politician and the current Prime Minister of Saint Kitts and Nevis since 2015.",
+              "links": [
+                {
+                  "text": "Prime Minister of Saint Kitts and Nevis",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of Saint Kitts and Nevis"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Timothy Sylvester Harris"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Minister of Foreign Affairs from 10 August 2001 to 25 January 2008, as Minister for Finance from 2008 to 2010, and as Senior Minister and Minister for Agriculture from 2010 to 2013."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Saint Kitts and Nevis (2015–present)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "",
+            "the historian of 17th-century Britain",
+            "Timothy J. G. Harris",
+            "the American author",
+            "Timothy Harris (writer)",
+            "other people",
+            "Timothy Harris (disambiguation)"
+          ],
+          "template": "about"
+        },
+        {
+          "year": "1964",
+          "month": "12",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Timothy Harris"
+          },
+          "image": {
+            "text": "TimothyHarris.jpg"
+          },
+          "office": {
+            "text": "Prime Minister of Saint Kitts and Nevis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Saint Kitts and Nevis"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor-general": {
+            "text": "Edmund Lawrence\nTapley Seaton",
+            "links": [
+              {
+                "text": "Edmund Lawrence",
+                "type": "internal",
+                "page": "Edmund Lawrence (Governor-General)"
+              },
+              {
+                "type": "internal",
+                "page": "Tapley Seaton"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 February 2015"
+          },
+          "deputy": {
+            "text": "Shawn Richards (2015-2022) Eugene Hamilton (2022-)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shawn Richards"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Denzil Douglas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denzil Douglas"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Denzil Douglas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denzil Douglas"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 August 2001"
+          },
+          "term_end1": {
+            "text": "25 January 2008"
+          },
+          "predecessor1": {
+            "text": "Sam Condor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sam Condor"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Denzil Douglas"
+          },
+          "office2": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "National Assembly (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1995",
+            "number": 1995
+          },
+          "constituency2": {
+            "text": "Saint Christopher #7",
+            "links": [
+              {
+                "text": "Saint Christopher #7",
+                "type": "internal",
+                "page": "Saint Kitts"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 6, 1964"
+          },
+          "birth_place": {
+            "text": "Tabernacle, Saint Christopher-Nevis-Anguilla"
+          },
+          "party": {
+            "text": "Labour Party (Before 2013)\nPeople's Labour Party\n(2013–present)",
+            "links": [
+              {
+                "text": "Labour Party",
+                "type": "internal",
+                "page": "Saint Kitts and Nevis Labour Party"
+              },
+              {
+                "text": "People's Labour Party",
+                "type": "internal",
+                "page": "People's Labour Party (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Team Unity (2013–present)",
+            "links": [
+              {
+                "text": "Team Unity",
+                "type": "internal",
+                "page": "Team Unity (Saint Kitts and Nevis)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the West Indies at Cave Hill\nUniversity of the West Indies at St. Augustine\nMcGill University\nConcordia University\nUniversity of Quebec at Montreal\nUniversity of Montreal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the West Indies at Cave Hill"
+              },
+              {
+                "text": "University of the West Indies at St. Augustine",
+                "type": "internal",
+                "page": "University of the West Indies"
+              },
+              {
+                "type": "internal",
+                "page": "McGill University"
+              },
+              {
+                "text": "Concordia University",
+                "type": "internal",
+                "page": "Concordia University (Montreal)"
+              },
+              {
+                "text": "University of Quebec at Montreal",
+                "type": "internal",
+                "page": "Université du Québec à Montréal"
+              },
+              {
+                "text": "University of Montreal",
+                "type": "internal",
+                "page": "Université de Montréal"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "SKNVibes {{!}} PM Harris fires six Government Ministers",
+          "url": "https://www.sknvibes.com/news/newsdetails.cfm/118955",
+          "website": "www.sknvibes.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://oecsbusinessfocus.com/a-profile-of-dr-timothy-sylvester-harris-prime-minister-st-kitts-and-nevis/",
+          "title": "A Profile of Dr Timothy Sylvester Harris Prime Minister - St Kitts and Nevis",
+          "website": "OECS Business Focus",
+          "access-date": "12 May 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Harris was born, in 1964, and grew up in the rural village of Tabernacle, Saint Kitts.",
+              "links": [
+                {
+                  "text": "Tabernacle",
+                  "type": "internal",
+                  "page": "Tabernacle, Saint Kitts and Nevis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Kitts"
+                }
+              ]
+            },
+            {
+              "text": "He attended the Cayon High School and Basseterre High School before going to six university campuses, two in the Caribbean and four in Canada."
+            },
+            {
+              "text": "In 1988, Harris graduated from the University of the West Indies at Cave Hill with a B.Sc.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the West Indies at Cave Hill"
+                }
+              ]
+            },
+            {
+              "text": "degree with a First Class Honours in Accounting, the only graduate of the B.Sc."
+            },
+            {
+              "text": "Accounting programme to obtain this distinction."
+            },
+            {
+              "text": "He also received the Victor Crooke Prize for Best Accounting Student."
+            },
+            {
+              "text": "He returned home and worked for two years at managerial level with S. L. Horsfords and Co Ltd."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1990–92 he pursued his M.Sc."
+            },
+            {
+              "text": "degree in accounting at the University of the West Indies at St. Augustine in Trinidad and Tobago.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
+                }
+              ]
+            },
+            {
+              "text": "He graduated top of the class with an M.Sc."
+            },
+            {
+              "text": "degree with a Distinction."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2001 Harris successfully defended his Ph.D. dissertation at Concordia University in Montreal, Canada.",
+              "links": [
+                {
+                  "text": "Concordia University",
+                  "type": "internal",
+                  "page": "Concordia University (Montreal)"
+                }
+              ]
+            },
+            {
+              "text": "The doctoral programme is a joint Ph.D. programme involving Concordia University, McGill and two francophone universities: H.E.C. (affiliated to Université de Montréal) and UQAM.",
+              "links": [
+                {
+                  "text": "Concordia University",
+                  "type": "internal",
+                  "page": "Concordia University (Montreal)"
+                },
+                {
+                  "text": "McGill",
+                  "type": "internal",
+                  "page": "McGill University"
+                },
+                {
+                  "text": "francophone",
+                  "type": "internal",
+                  "page": "francophone"
+                },
+                {
+                  "type": "internal",
+                  "page": "Université de Montréal"
+                },
+                {
+                  "text": "UQAM",
+                  "type": "internal",
+                  "page": "Université du Québec à Montréal"
+                }
+              ]
+            },
+            {
+              "text": "Harris holds a Doctor of Philosophy degree in administration majoring in accounting."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Harris participated in elective politics in 1993 and was elected as a Member of Parliament on the St. Kitts-Nevis Labour Party ticket in parliamentary elections held in 1995, 2000, 2004, and 2010."
+            },
+            {
+              "text": "He held various cabinet posts, including Minister of Agriculture, Lands and Housing, Minister of Education, Labour and Social Security, Minister of Foreign Affairs and Education and Minister of Foreign Affairs, International Trade, Industry and Commerce."
+            },
+            {
+              "text": "He has published several works and received several awards, including the St. Kitts Youth Council Award for Excellence in Education, the FESTAB Community Award for outstanding contribution to FESTAB and a certificate for outstanding contribution to the Cayon High School."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2013 Prime Minister Denzil Douglas fired Harris from the cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Denzil Douglas"
+                }
+              ]
+            },
+            {
+              "text": "Harris established the People's Labour Party (PLP) later in the year.",
+              "links": [
+                {
+                  "text": "People's Labour Party",
+                  "type": "internal",
+                  "page": "People's Labour Party (Saint Kitts and Nevis)"
+                }
+              ]
+            },
+            {
+              "text": "In the buildup to the 2015 general elections the PLP formed the Team Unity alliance with the People's Action Movement and the Concerned Citizens' Movement.",
+              "links": [
+                {
+                  "text": "2015 general elections",
+                  "type": "internal",
+                  "page": "2015 Saint Kitts and Nevis general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Action Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Concerned Citizens' Movement"
+                }
+              ]
+            },
+            {
+              "text": "The alliance won the elections, and although the PLP won only one seat, Harris became the third Prime Minister of independent St. Kitts and Nevis on 16 February."
+            },
+            {
+              "text": "He succeeded the incumbent, Denzil Douglas, who served a historic near 20-year tenure."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2018-10-10",
+          "title": "University of the West Indies honours two Federation officials",
+          "url": "https://www.thestkittsnevisobserver.com/university-of-the-west-indies-honours-two-federation-officials/",
+          "url-status": "live",
+          "access-date": "2021-01-19",
+          "website": "The St. Kitts-Nevis Observer",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Harris",
+          "first": "Timothy",
+          "title": "Exploring the potentialities of value-for-money audit: an investigation of its impact on management controls, accountability, performance, and a test of legitimacy theory",
+          "publisher": "John Molson School of Business, Concordia University",
+          "year": "2001",
+          "location": "Montreal",
+          "type": "book",
+          "oclc": "896681248",
+          "template": "citation"
+        },
+        {
+          "date": "2013-01-25",
+          "title": "Prime Minister revokes appointment of Senior Minister",
+          "url": "http://www.cuopm.com/?p=5781",
+          "url-status": "usurped",
+          "archive-url": "https://web.archive.org/web/20140223201208/http://www.cuopm.com/?p=5781",
+          "archive-date": "2014-02-23",
+          "access-date": "2021-01-19",
+          "website": "Office of the Prime Minister of St. Kitts and Nevis",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Honors",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "🇹🇼 Taiwan:",
+            "links": [
+              {
+                "text": "Taiwan",
+                "type": "internal",
+                "page": "taiwan"
+              }
+            ]
+          },
+          {
+            "text": "TWN Order of Propitious Clouds 1Class BAR.svg Special Grand Cordon of the Order of Propitious Clouds (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Propitious Clouds"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "last1": "Wen",
+          "first1": "Yu-chen",
+          "last2": "Chung",
+          "first2": "Kuei-hsiang",
+          "title": "President Tsai decorates St. Christopher and Nevis prime minister",
+          "url": "http://focustaiwan.tw/news/aipl/201904160012.aspx",
+          "access-date": "16 April 2019",
+          "agency": "Central News Agency",
+          "date": "16 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Su",
+          "first1": "Yung-yao",
+          "last2": "Chung",
+          "first2": "Jake",
+          "title": "Saint Kitts prime minister in Taipei to improve ties",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2019/04/17/2003713542",
+          "access-date": "16 April 2019",
+          "work": "Taipei Times",
+          "date": "16 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://english.president.gov.tw/Page/103",
+          "title": "Decorations of the Republic of China (Taiwan)",
+          "access-date": "4 April 2020",
+          "website": "Office of the President of the Republic of China (Taiwan)",
+          "quote": "2019-4-16 St. Christopher and Nevis Order of Propitious Clouds with Special Grand Cordon Prime Minister Timothy Sylvester Harris",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat-inline"
+        },
+        {
+          "template": "wikiquote-inline"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Sam Condor",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Foreign Affairs",
+          "years": "2001–2008",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Denzil Douglas",
+          "template": "s-aft"
+        },
+        {
+          "before": "Denzil Douglas",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Saint Kitts and Nevis",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "list": [
+            "party"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Leader of the People's Labour Party",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "stknevispms"
+        },
+        {
+          "template": "current alba leaders"
+        },
+        {
+          "template": "heads of government of monarchies"
+        },
+        {
+          "template": "commonwealth heads of government"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "St. Kitts & Nevis - Government of St. Kitts and Nevis official website",
+            "links": [
+              {
+                "text": "St. Kitts & Nevis",
+                "type": "external",
+                "site": "http://www.gov.kn"
+              }
+            ]
+          },
+          {
+            "text": "United Nations - Permanent Mission of St. Kitts and Nevis to the United Nations Statement by His Excellency Dr. Timothy Harris",
+            "links": [
+              {
+                "text": "United Nations",
+                "type": "external",
+                "site": "https://www.un.org/webcast/ga/61/pdfs/saintkittsandnevis-e.pdf"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "St. Kitts & Nevis - Government of St. Kitts and Nevis official website",
+            "links": [
+              {
+                "text": "St. Kitts & Nevis",
+                "type": "external",
+                "site": "http://www.gov.kn"
+              }
+            ]
+          },
+          {
+            "text": "United Nations - Permanent Mission of St. Kitts and Nevis to the United Nations Statement by His Excellency Dr. Timothy Harris",
+            "links": [
+              {
+                "text": "United Nations",
+                "type": "external",
+                "site": "https://www.un.org/webcast/ga/61/pdfs/saintkittsandnevis-e.pdf"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
