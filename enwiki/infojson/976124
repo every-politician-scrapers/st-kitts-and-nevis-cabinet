@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Saint Kitts and Nevis)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1995"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Saint Kitts and Nevis)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2001-08-10",
+    "P1365": {
+      "links": [
+        "Sam Condor"
+      ],
+      "stated_as": "Sam Condor"
+    },
+    "P582": "2008-01-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Denzil Douglas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Saint Kitts and Nevis"
+      ],
+      "stated_as": "Prime Minister of Saint Kitts and Nevis"
+    },
+    "P580": "2015-02-18",
+    "P1365": {
+      "links": [
+        "Denzil Douglas"
+      ],
+      "stated_as": "Denzil Douglas"
+    }
+  }
+]
