@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Leader of the Opposition in the National Assembly of the Federation of St. Kitts and Nevis"
+    },
+    "P580": "2007",
+    "P582": "2015"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Saint Kitts and Nevis)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2015-02-22",
+    "P1365": {
+      "links": [
+        "Patrice Nisbett"
+      ],
+      "stated_as": "Patrice Nisbett"
+    },
+    "P582": "2022-05-10",
+    "P1366": {
+      "links": [
+        "Vincent Byron (politician)"
+      ],
+      "stated_as": "Vincent Byron"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Premier of Nevis"
+    },
+    "P1545": "5",
+    "P580": "2017-10-29",
+    "P1365": {
+      "links": [
+        "Vance Amory"
+      ],
+      "stated_as": "Vance Amory"
+    }
+  }
+]
